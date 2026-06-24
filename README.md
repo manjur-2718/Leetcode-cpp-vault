@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0027-remove-element) |
+| [0074-search-a-2d-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0074-search-a-2d-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0074-search-a-2d-matrix) |
 | [0658-find-k-closest-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0658-find-k-closest-elements) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
@@ -89,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0074-search-a-2d-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
