@@ -1,3 +1,11 @@
+struct cmp{
+    bool operator()(const pair<int,int>& a, const pair<int,int>& b){
+        if(a.second!=b.second){
+            return a.second < b.second;
+        }
+        return a.first>b.first;
+    }
+};
 class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
