@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0027-remove-element) |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
 | [1732-find-the-highest-altitude](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -25,16 +26,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -49,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -57,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
