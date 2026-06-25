@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1732-find-the-highest-altitude) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1732-find-the-highest-altitude) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,10 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0074-search-a-2d-matrix) |
 | [0658-find-k-closest-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0658-find-k-closest-elements) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0658-find-k-closest-elements) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Matrix
 |  |
 | ------- |
