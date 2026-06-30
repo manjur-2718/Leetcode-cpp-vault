@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Geometry
@@ -139,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
