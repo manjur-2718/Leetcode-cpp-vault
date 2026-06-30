@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -152,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
