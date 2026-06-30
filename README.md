@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0767-reorganize-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0076-minimum-window-substring) |
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0767-reorganize-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0658-find-k-closest-elements) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Matrix
 |  |
