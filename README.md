@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0074-search-a-2d-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0502-ipo) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
