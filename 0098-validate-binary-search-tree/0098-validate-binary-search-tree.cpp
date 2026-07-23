@@ -20,7 +20,10 @@ public:
             prev=root;
         }
         else{
-            if(prev->val >= root->val) ans=false;
+            if(prev->val >= root->val){
+                ans=false;
+                return;
+            }
             prev=root;
         }
 
