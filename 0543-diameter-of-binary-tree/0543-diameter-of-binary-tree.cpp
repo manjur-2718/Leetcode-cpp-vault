@@ -11,41 +11,18 @@
  */
 class Solution {
 public:
-    void findDepth(TreeNode* root, int depth, int &ans){
-        if(root==NULL) return;
-        depth++;
-        if(root->left==NULL && root->right==NULL){
-            ans=max(ans,depth);
-            return;
-        }
-        findDepth(root->left,depth,ans);
-        findDepth(root->right,depth,ans);
-        return;
-    }
+    int diameter = 0;
+    int calculateHeight(TreeNode* root){
+        if(root==NULL) return 0;
+        int lh=calculateHeight(root->left);
+        int rh=calculateHeight(root->right);
 
-    int find(TreeNode* root){
-        int ans = 0;
-        findDepth(root,0,ans);
-        return ans;
+        diameter = max(diameter,lh+rh);
 
-    }
-
-    void findDiameter(TreeNode* root,int &max_diameter){
-        if(root==NULL) return;
-        
-        int left_depth = find(root->left);
-        int right_depth = find(root->right);
-
-        max_diameter = max(max_diameter,left_depth+right_depth);
-
-        findDiameter(root->left,max_diameter);
-        findDiameter(root->right,max_diameter);
-        return;
+        return 1+max(rh,lh);
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root==NULL) return 0;
-        int max_diameter=0;
-        findDiameter(root,max_diameter);
-        return max_diameter;
+        calculateHeight(root);
+        return diameter;
     }
 };
