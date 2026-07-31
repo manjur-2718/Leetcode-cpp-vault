@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0066-plus-one) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0074-search-a-2d-matrix) |
 | [0658-find-k-closest-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0658-find-k-closest-elements) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
