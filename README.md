@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0658-find-k-closest-elements) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -333,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0700-search-in-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
