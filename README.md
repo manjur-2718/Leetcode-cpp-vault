@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0151-reverse-words-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0767-reorganize-string) |
 | [1021-remove-outermost-parentheses](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1021-remove-outermost-parentheses) |
