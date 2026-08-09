@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0767-reorganize-string) |
 | [1021-remove-outermost-parentheses](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1903-largest-odd-number-in-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0767-reorganize-string) |
+| [1903-largest-odd-number-in-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
