@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0205-isomorphic-strings) |
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1903-largest-odd-number-in-string) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
