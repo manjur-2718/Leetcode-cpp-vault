@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0205-isomorphic-strings](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0621-task-scheduler) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0205-isomorphic-strings) |
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0767-reorganize-string) |
 | [1021-remove-outermost-parentheses](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1021-remove-outermost-parentheses) |
