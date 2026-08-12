@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0621-task-scheduler) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0502-ipo) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0767-reorganize-string) |
