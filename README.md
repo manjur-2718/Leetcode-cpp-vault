@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0022-generate-parentheses) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0509-fibonacci-number) |
