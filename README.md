@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0767-reorganize-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
