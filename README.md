@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -71,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
@@ -204,12 +207,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0328-odd-even-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
