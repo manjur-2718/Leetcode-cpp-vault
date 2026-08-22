@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0258-add-digits) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0148-sort-list) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0509-fibonacci-number) |
 ## Memoization
