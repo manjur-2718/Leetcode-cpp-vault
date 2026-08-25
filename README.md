@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0502-ipo) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0200-number-of-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Greedy
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0662-maximum-width-of-binary-tree) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -430,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0005-longest-palindromic-substring) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
