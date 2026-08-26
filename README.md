@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0692-top-k-frequent-words) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1732-find-the-highest-altitude) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Greedy
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0994-rotting-oranges) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
