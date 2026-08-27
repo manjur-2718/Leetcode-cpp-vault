@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0160-intersection-of-two-linked-lists) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0160-intersection-of-two-linked-lists) |
