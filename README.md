@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0502-ipo) |
+| [0542-01-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0658-find-k-closest-elements) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0662-maximum-width-of-binary-tree) |
