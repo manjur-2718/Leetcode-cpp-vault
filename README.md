@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0160-intersection-of-two-linked-lists) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0205-isomorphic-strings) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0126-word-ladder-ii) |
 ## Tree
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0199-binary-tree-right-side-view) |
@@ -484,5 +488,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/manjur-2718/Leetcode-cpp-vault/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
